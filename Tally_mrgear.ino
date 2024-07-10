@@ -11,7 +11,7 @@
 CRGB leds[NUM_LEDS];
 
 const char* ssid = "Your_SSID";
-const char* pass = "Your_Pass";
+const char* pass = "Your_PASS";
 String HexValue = "000000";
 
 ESP8266WebServer server(80);
