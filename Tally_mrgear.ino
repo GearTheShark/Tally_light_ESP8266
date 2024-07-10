@@ -10,8 +10,8 @@
 //#define FASTLED_ESP8266_RAW_PIN_ORDER
 CRGB leds[NUM_LEDS];
 
-const char* ssid = "Eron-don-don";
-const char* pass = "hohil12939";
+const char* ssid = "Your_SSID";
+const char* pass = "Your_Pass";
 String HexValue = "000000";
 
 ESP8266WebServer server(80);
